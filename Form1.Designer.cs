@@ -52,7 +52,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(129, 15);
             this.label2.TabIndex = 1;
-            this.label2.Text = "TODO: settings for date";
+            this.label2.Text = "TODO: settings for date, change date when day changes, show year?";
             // 
             // label3
             // 
@@ -71,8 +71,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Date to Tray in Win10";
+            this.Text = "Date to Tray in Win10";
             this.ResumeLayout(false);
             this.PerformLayout();
 
